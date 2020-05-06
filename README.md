@@ -63,7 +63,7 @@
    
   <ul class="nav nav-pills nav-fill">
   <li class="nav-item">
-    <a class="nav-link active" href="#" style="background-color: rgb(95, 39, 227);">Homepage</a>
+    <a class="nav-link" href="#" style="color: rgb(95, 39, 227);">Homepage</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="#" style="color: rgb(95, 39, 227)">Store Locations and Hours</a>
@@ -72,7 +72,7 @@
     <a class="nav-link" href="#" style="color: rgb(95, 39, 227)">Donations</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#" style="color: rgb(95, 39, 227)">Contact Us</a>
+    <a class="nav-link active" href="#" style="background-color: rgb(95, 39, 227)">Contact Us</a>
   </li>
 
 
@@ -88,7 +88,7 @@
 </nav>
 
 <div class="card" style="width: 18rem;">
-  <img src="" class="card-img-top" alt="fb">
+  <img src="https://www.facebook.com/images/fb_icon_325x325.png" class="card-img-top" alt="fb">
   <div class="card-body">
     <h5 class="card-title">Facebook</h5>
     <p class="card-text">Check out our Facebook page here</p>
@@ -96,7 +96,7 @@
   </div>
 </div>
 <div class="card" style="width: 18rem;">
-  <img src="" class="card-img-top" alt="ig">
+  <img src="https://instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png" class="card-img-top" alt="ig">
   <div class="card-body">
     <h5 class="card-title">Instagram</h5>
     <p class="card-text">Check out our Instagram page here</p>
