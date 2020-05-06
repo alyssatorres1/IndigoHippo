@@ -63,9 +63,17 @@
    
   <ul class="nav nav-pills nav-fill">
   <li class="nav-item">
-    <a class="nav-link active"  href="file:///C:/Users/alyss/OneDrive/Documents/Hello%20Fresh/ContactUs.html">Contact Us</a>
+    <a class="nav-link active" href="#" style="background-color: rgb(95, 39, 227);">Homepage</a>
   </li>
-</ul>
+  <li class="nav-item">
+    <a class="nav-link" href="#" style="color: rgb(95, 39, 227)">Store Locations and Hours</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#" style="color: rgb(95, 39, 227)">Donations</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#" style="color: rgb(95, 39, 227)">Contact Us</a>
+  </li>
 
 
 <nav aria-label="breadcrumb">
