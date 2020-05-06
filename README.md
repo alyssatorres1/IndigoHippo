@@ -27,7 +27,7 @@
     <a class="nav-link" href="#" style="color: rgb(95, 39, 227)">Donations</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#" style="color: rgb(95, 39, 227)">Contact Us</a>
+    <a class="nav-link" href="file:///C:/Users/alyss/OneDrive/Documents/Hello%20Fresh/ContactUs.html" style="color: rgb(95, 39, 227)">Contact Us</a>
   </li>
 </ul>
 <div class="container">
