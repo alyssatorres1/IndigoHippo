@@ -70,6 +70,8 @@
   </body>
 </html>
 
+#ContactUs
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -106,13 +108,25 @@
 </nav>
 
 <div class="card" style="width: 18rem;">
-  <img src="facebook.png" class="card-img-top" alt="fb">
+  <img src="" class="card-img-top" alt="fb">
   <div class="card-body">
     <h5 class="card-title">Facebook</h5>
     <p class="card-text">Check out our Facebook page here</p>
     <a href="https://www.facebook.com/indigohippo/" class="btn btn-primary">Go to Facebook</a>
   </div>
 </div>
+<div class="card" style="width: 18rem;">
+  <img src="" class="card-img-top" alt="ig">
+  <div class="card-body">
+    <h5 class="card-title">Instagram</h5>
+    <p class="card-text">Check out our Instagram page here</p>
+    <a href="https://www.instagram.com/indigohippo/" class="btn btn-primary">Go to Instagram</a>
+  </div>
+</div>
+
+
+
+
 
 </body>
 </html>
