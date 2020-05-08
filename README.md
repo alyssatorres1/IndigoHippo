@@ -8,9 +8,20 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
+	<link href="https://fonts.googleapis.com/css2?family=Jost&family=Source+Sans+Pro&display=swap" rel="stylesheet">
     <title>Indigo Hippo Remake</title>
   </head>
+  <style>
+	body{
+	background-color: #f4e4ff;
+	font-family: 'Jost', sans-serif;
+	font-size:20px;
+	}
+  
+  
+  
+  
+  </style>
   <body>
     <div class="container">
     <div class="container-fluid">
