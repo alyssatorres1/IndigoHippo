@@ -8,15 +8,15 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-	<link href="https://fonts.googleapis.com/css2?family=Jost&family=Source+Sans+Pro&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Jost&family=Source+Sans+Pro&display=swap" rel="stylesheet">
     <title>Indigo Hippo Remake</title>
   </head>
   <style>
-	body{
-	background-color: #f4e4ff;
-	font-family: 'Jost', sans-serif;
-	font-size:20px;
-	}
+  body{
+  background-color: #f4e4ff;
+  font-family: 'Jost', sans-serif;
+  font-size:20px;
+  }
   
   
   
@@ -45,12 +45,14 @@
 <div class="container">
   <div class="row">
     <div class="col-8">
-      <div class="card text-center" style="width: 18rem;">
+      <div class="card text-center" style="width: 40rem;">
   <div class="card-header">
     Who We Are
   </div>
   <ul class="list-group list-group-flush">
-    <li class="list-group-item">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li>
+    <li class="list-group-item">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra. Urna nec tincidunt praesent semper feugiat nibh sed pulvinar. Adipiscing tristique risus nec feugiat. Dolor sit amet consectetur adipiscing elit ut. Et malesuada fames ac turpis egestas sed tempus urna. Consectetur a erat nam at lectus urna duis convallis convallis. Placerat duis ultricies lacus sed turpis. Et ultrices neque ornare aenean euismod elementum. Cras fermentum odio eu feugiat pretium nibh ipsum.
+
+Tempor commodo ullamcorper a lacus vestibulum sed arcu. Ornare suspendisse sed nisi lacus sed. Pulvinar sapien et ligula ullamcorper malesuada. Sed vulputate mi sit amet mauris commodo quis imperdiet massa. Sed vulputate odio ut enim blandit volutpat maecenas volutpat. Habitant morbi tristique senectus et. Varius duis at consectetur lorem. Massa tempor nec feugiat nisl pretium. Massa ultricies mi quis hendrerit. Sit amet massa vitae tortor condimentum lacinia quis vel eros. Amet porttitor eget dolor morbi non arcu risus. Ipsum faucibus vitae aliquet nec ullamcorper sit amet risus. Eget arcu dictum varius duis at consectetur lorem donec massa. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Egestas congue quisque egestas diam in arcu cursus.</li>
   </ul>
 </div>
     </div>
@@ -59,10 +61,12 @@
   <div class="row justify-content-md-center">
     <div class="col-md-auto">
       Slides
+      <img src="https://web.archive.org/web/20191013105951/https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510263221293-LGX7SA7ZGZFKZ7B1D3Q4/ke17ZwdGBToddI8pDm48kEQyrVMwiTD4qxKh1zZFa5tZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-vrDs5EYlq5TI-1yBeVCmXUQSqstEtnYon4eiZ636GH7g/Artboard+2.jpg?format=500w">
     </div>
       <div class="w-100"></div>
     <div class="col-md-auto">
       News
+      <img src="https://web.archive.org/web/20191013105951/https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510263221293-LGX7SA7ZGZFKZ7B1D3Q4/ke17ZwdGBToddI8pDm48kEQyrVMwiTD4qxKh1zZFa5tZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-vrDs5EYlq5TI-1yBeVCmXUQSqstEtnYon4eiZ636GH7g/Artboard+2.jpg?format=500w">
     </div>
   </div>
       </div>
