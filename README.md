@@ -1,5 +1,6 @@
 # IndigoHippo
 <!doctype html>
+<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -25,7 +26,7 @@
   <body>
     <div class="container">
     <div class="container-fluid">
-      <img src="https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510264515419-4IMP0KF0QOKO6AUTBDKE/ke17ZwdGBToddI8pDm48kHet_KDcFQuJxVcCuyXyt117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeZqUqReufaP-cJgIY-lw8ifCXCx4vjQj5BEigwB8uCRg/Indigo+Hippo+Hero.jpg" class="img-fluid" width="100%" height="30%">
+      <img src="https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510264515419-4IMP0KF0QOKO6AUTBDKE/ke17ZwdGBToddI8pDm48kHet_KDcFQuJxVcCuyXyt117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeZqUqReufaP-cJgIY-lw8ifCXCx4vjQj5BEigwB8uCRg/Indigo+Hippo+Hero.jpg" class="img-fluid" width="100%" height="30%" alt="hippo header">
       </div>
     <ul class="nav nav-pills nav-fill">
   <li class="nav-item">
@@ -61,12 +62,12 @@ Tempor commodo ullamcorper a lacus vestibulum sed arcu. Ornare suspendisse sed n
   <div class="row justify-content-md-center">
     <div class="col-md-auto">
       Slides
-      <img src="https://web.archive.org/web/20191013105951/https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510263221293-LGX7SA7ZGZFKZ7B1D3Q4/ke17ZwdGBToddI8pDm48kEQyrVMwiTD4qxKh1zZFa5tZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-vrDs5EYlq5TI-1yBeVCmXUQSqstEtnYon4eiZ636GH7g/Artboard+2.jpg?format=500w">
+      <img src="https://web.archive.org/web/20191013105951/https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510263221293-LGX7SA7ZGZFKZ7B1D3Q4/ke17ZwdGBToddI8pDm48kEQyrVMwiTD4qxKh1zZFa5tZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-vrDs5EYlq5TI-1yBeVCmXUQSqstEtnYon4eiZ636GH7g/Artboard+2.jpg?format=500w" alt="placeholder hippo">
     </div>
       <div class="w-100"></div>
     <div class="col-md-auto">
       News
-      <img src="https://web.archive.org/web/20191013105951/https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510263221293-LGX7SA7ZGZFKZ7B1D3Q4/ke17ZwdGBToddI8pDm48kEQyrVMwiTD4qxKh1zZFa5tZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-vrDs5EYlq5TI-1yBeVCmXUQSqstEtnYon4eiZ636GH7g/Artboard+2.jpg?format=500w">
+      <img src="https://web.archive.org/web/20191013105951/https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510263221293-LGX7SA7ZGZFKZ7B1D3Q4/ke17ZwdGBToddI8pDm48kEQyrVMwiTD4qxKh1zZFa5tZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-vrDs5EYlq5TI-1yBeVCmXUQSqstEtnYon4eiZ636GH7g/Artboard+2.jpg?format=500w" alt="placeholder hippo">
     </div>
   </div>
       </div>
@@ -76,7 +77,7 @@ Tempor commodo ullamcorper a lacus vestibulum sed arcu. Ornare suspendisse sed n
 
 <div class="container">
     <div class="container-fluid">
-      <img src="https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510264515419-4IMP0KF0QOKO6AUTBDKE/ke17ZwdGBToddI8pDm48kHet_KDcFQuJxVcCuyXyt117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeZqUqReufaP-cJgIY-lw8ifCXCx4vjQj5BEigwB8uCRg/Indigo+Hippo+Hero.jpg" class="img-fluid" width="100%" height="30%">
+      <img src="https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510264515419-4IMP0KF0QOKO6AUTBDKE/ke17ZwdGBToddI8pDm48kHet_KDcFQuJxVcCuyXyt117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeZqUqReufaP-cJgIY-lw8ifCXCx4vjQj5BEigwB8uCRg/Indigo+Hippo+Hero.jpg" class="img-fluid" width="100%" height="30%" alt="hippo header">
       </div>
     <ul class="nav nav-pills nav-fill">
   <li class="nav-item">
@@ -99,10 +100,10 @@ Tempor commodo ullamcorper a lacus vestibulum sed arcu. Ornare suspendisse sed n
         <h5 class="card-title">Indigo Hippo Training : Creative Arts Programming</h5>
         <p class="card-text">Join us for a 10-hour training for individuals, artists, educators, community leaders, non-profit professionals, and anyone interested in exploring the role of creative arts programming in personal growth and community-building.</p>  
         <p class="card-text">This training covers best-practices for:</p>  
-        <p class="card-text">creating effective curriculum</p>
-        <p class="card-text">developing a classroom model</p>
-        <p class="card-text">strengthening teaching skills</p>
-        <p class="card-text">program evaluation, and more!</p>
+        <p class="card-text">Creating effective curriculum</p>
+        <p class="card-text">Developing a classroom model</p>
+        <p class="card-text">Strengthening teaching skills</p>
+        <p class="card-text">Program evaluation, and more!</p>
         <p class="card-text">We start the training with a personal mission statement process that helps us stay focused on the "why?" behind our work. Then, we move through program planning best practices, curriculum writing, and peer feedback opportunities while building community connections between participants. We also offer explorations of art-making & character development, asset-based relationships, and various creative reuse program ideas.</p>
         <p class="card-text">
           
@@ -123,12 +124,13 @@ Tempor commodo ullamcorper a lacus vestibulum sed arcu. Ornare suspendisse sed n
         <p class="card-text">Over-the-Rhine, 45202,</p>
       </div>
     </div>
+    <img src="https://web.archive.org/web/20191013105951/https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510263485435-2KIWD4FQSP9NEY1LMZ8K/ke17ZwdGBToddI8pDm48kDm6x_4ezTWK6ULUbnXuhddZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-uxyGOUdJLXRBbjWOFpXHTamIdktTTMeO8Ehl4BFSs91g/Artboard+4.jpg?format=750w" align="justify-content-md-center" alt="sideways hippo">
   </div>
 </div>
 
 </div>
       <div class="container-fluid">
-      <img src="https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510264515419-4IMP0KF0QOKO6AUTBDKE/ke17ZwdGBToddI8pDm48kHet_KDcFQuJxVcCuyXyt117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeZqUqReufaP-cJgIY-lw8ifCXCx4vjQj5BEigwB8uCRg/Indigo+Hippo+Hero.jpg" class="img-fluid">
+      <img src="https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510264515419-4IMP0KF0QOKO6AUTBDKE/ke17ZwdGBToddI8pDm48kHet_KDcFQuJxVcCuyXyt117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeZqUqReufaP-cJgIY-lw8ifCXCx4vjQj5BEigwB8uCRg/Indigo+Hippo+Hero.jpg" class="img-fluid" width="100%" height="30%" alt="hippo header">
 </div>
   <ul class="nav nav-pills nav-fill">
   <li class="nav-item">
@@ -195,7 +197,7 @@ Tempor commodo ullamcorper a lacus vestibulum sed arcu. Ornare suspendisse sed n
   </div>
 </div>
 <div class="container-fluid">
-      <img src="https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510264515419-4IMP0KF0QOKO6AUTBDKE/ke17ZwdGBToddI8pDm48kHet_KDcFQuJxVcCuyXyt117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeZqUqReufaP-cJgIY-lw8ifCXCx4vjQj5BEigwB8uCRg/Indigo+Hippo+Hero.jpg" class="img-fluid">
+      <img src="https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510264515419-4IMP0KF0QOKO6AUTBDKE/ke17ZwdGBToddI8pDm48kHet_KDcFQuJxVcCuyXyt117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeZqUqReufaP-cJgIY-lw8ifCXCx4vjQj5BEigwB8uCRg/Indigo+Hippo+Hero.jpg" class="img-fluid" width="100%" height="30%" alt="hippo header">
 </div>
   <ul class="nav nav-pills nav-fill">
   <li class="nav-item">
