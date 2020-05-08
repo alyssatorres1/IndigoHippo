@@ -31,16 +31,16 @@
       </div>
   <ul class="nav nav-pills nav-fill">
   <li class="nav-item">
-    <a class="nav-link" href="Hompage.html" style="color: rgb(95, 39, 227);">Homepage</a>
+    <a class="nav-link" href="Hompage.md" style="color: rgb(95, 39, 227);">Homepage</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="Store Locations and Hours.html" style="color: rgb(95, 39, 227)">Store Locations and Hours</a>
+    <a class="nav-link" href="Store Locations and Hours.md" style="color: rgb(95, 39, 227)">Store Locations and Hours</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="Donations.html" style="background-color: rgb(95, 39, 227)"></a>
+    <a class="nav-link active" href="Donations.md" style="background-color: rgb(95, 39, 227)"></a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="Contact Us.html" style="color: rgb(95, 39, 227)">Contact Us</a>
+    <a class="nav-link" href="Contact Us.md" style="color: rgb(95, 39, 227)">Contact Us</a>
   </li>
  
   <br>
