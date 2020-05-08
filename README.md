@@ -46,6 +46,7 @@
   </li>
 </ul>
        <br>
+  <br>
 <div class="container">
   <div class="row">
     <div class="col-8">
@@ -96,6 +97,8 @@ Tempor commodo ullamcorper a lacus vestibulum sed arcu. Ornare suspendisse sed n
     <a class="nav-link" href="#" style="color: rgb(95, 39, 227)">Contact Us</a>
   </li>
 </ul>
+<br>
+  <br>
 <div class="row">
   <div class="col-sm-6">
     <div class="card">
@@ -150,6 +153,7 @@ Tempor commodo ullamcorper a lacus vestibulum sed arcu. Ornare suspendisse sed n
   </li>
  
   <br>
+  <br>
   
 
 
@@ -203,6 +207,7 @@ Tempor commodo ullamcorper a lacus vestibulum sed arcu. Ornare suspendisse sed n
     <img src="https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510264515419-4IMP0KF0QOKO6AUTBDKE/ke17ZwdGBToddI8pDm48kHet_KDcFQuJxVcCuyXyt117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeZqUqReufaP-cJgIY-lw8ifCXCx4vjQj5BEigwB8uCRg/Indigo+Hippo+Hero.jpg" class="img-fluid" width="100%" height="100%" alt="hippo header">
       </div>
   
+ <ul class="nav nav-pills nav-fill">
   <li class="nav-item">
     <a class="nav-link" href="#" style="color: rgb(95, 39, 227);">Homepage</a>
   </li>
@@ -215,11 +220,14 @@ Tempor commodo ullamcorper a lacus vestibulum sed arcu. Ornare suspendisse sed n
   <li class="nav-item">
     <a class="nav-link active" href="#" style="background-color: rgb(95, 39, 227)">Contact Us</a>
   </li>
-  
+  <br>
+  <br>
 
 
-
- <div class="card" style="width: 18rem;">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+       <div class="card" style="width: 18rem;">
   <img src="https://www.facebook.com/images/fb_icon_325x325.png" class="card-img-top" alt="fb">
   <div class="card-body">
     <h5 class="card-title">Facebook</h5>
@@ -227,7 +235,9 @@ Tempor commodo ullamcorper a lacus vestibulum sed arcu. Ornare suspendisse sed n
     <a href="https://www.facebook.com/indigohippo/" class="btn btn-primary">Go to Facebook</a>
   </div>
 </div>
-<div class="card" style="width: 18rem;">
+    </div>
+    <div class="col-sm">
+      <div class="card" style="width: 18rem;">
   <img src="https://instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png" class="card-img-top" alt="ig">
   <div class="card-body">
     <h5 class="card-title">Instagram</h5>
@@ -235,10 +245,38 @@ Tempor commodo ullamcorper a lacus vestibulum sed arcu. Ornare suspendisse sed n
     <a href="https://www.instagram.com/indigohippo/" class="btn btn-primary">Go to Instagram</a>
   </div>
 </div>
- <br>
-	<p>Email: emily at indigohippo.org</p>
-	<p>Phone Number (513) 918-4917</p> 
- <br>
+    </div>
+    <div class="col-sm">
+      <div class="container">
+  <div class="row">
+    <div class="col">
+<div class="card" style="width: 18rem;">
+  <div class="card-header">
+    Email
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item"> emily@indigohippo.org</li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+<div class="row">
+    <div class="col">
+      <div class="card" style="width: 18rem;">
+  <div class="card-header">
+    Phone Number
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item"> (513) 918-4917</li>
+  </ul>
+</div>
+    </div>
+  </div>
+    </div>
+  </div>
+</div>
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
