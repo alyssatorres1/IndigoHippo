@@ -1,6 +1,5 @@
 # IndigoHippo
 <!doctype html>
-<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -20,13 +19,12 @@
   }
   
   
-  
-  
   </style>
   <body>
     <div class="container">
-    <div class="container-fluid">
-      <img src="https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510264515419-4IMP0KF0QOKO6AUTBDKE/ke17ZwdGBToddI8pDm48kHet_KDcFQuJxVcCuyXyt117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeZqUqReufaP-cJgIY-lw8ifCXCx4vjQj5BEigwB8uCRg/Indigo+Hippo+Hero.jpg" class="img-fluid" width="100%" height="30%" alt="hippo header">
+    <div class="container-fluid" style="width: 100%; height: 390px; overflow: hidden;">
+
+    <img src="https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510264515419-4IMP0KF0QOKO6AUTBDKE/ke17ZwdGBToddI8pDm48kHet_KDcFQuJxVcCuyXyt117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeZqUqReufaP-cJgIY-lw8ifCXCx4vjQj5BEigwB8uCRg/Indigo+Hippo+Hero.jpg" class="img-fluid" width="100%" height="100%" alt="hippo header">
       </div>
     <ul class="nav nav-pills nav-fill">
   <li class="nav-item">
@@ -76,8 +74,8 @@ Tempor commodo ullamcorper a lacus vestibulum sed arcu. Ornare suspendisse sed n
 </div>
 
 <div class="container">
-    <div class="container-fluid">
-      <img src="https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510264515419-4IMP0KF0QOKO6AUTBDKE/ke17ZwdGBToddI8pDm48kHet_KDcFQuJxVcCuyXyt117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeZqUqReufaP-cJgIY-lw8ifCXCx4vjQj5BEigwB8uCRg/Indigo+Hippo+Hero.jpg" class="img-fluid" width="100%" height="30%" alt="hippo header">
+    <div class="container-fluid" style="width: 100%; height: 390px; overflow: hidden;">
+    <img src="https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510264515419-4IMP0KF0QOKO6AUTBDKE/ke17ZwdGBToddI8pDm48kHet_KDcFQuJxVcCuyXyt117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeZqUqReufaP-cJgIY-lw8ifCXCx4vjQj5BEigwB8uCRg/Indigo+Hippo+Hero.jpg" class="img-fluid" width="100%" height="100%" alt="hippo header">
       </div>
     <ul class="nav nav-pills nav-fill">
   <li class="nav-item">
@@ -129,9 +127,9 @@ Tempor commodo ullamcorper a lacus vestibulum sed arcu. Ornare suspendisse sed n
 </div>
 
 </div>
-      <div class="container-fluid">
-      <img src="https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510264515419-4IMP0KF0QOKO6AUTBDKE/ke17ZwdGBToddI8pDm48kHet_KDcFQuJxVcCuyXyt117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeZqUqReufaP-cJgIY-lw8ifCXCx4vjQj5BEigwB8uCRg/Indigo+Hippo+Hero.jpg" class="img-fluid" width="100%" height="30%" alt="hippo header">
-</div>
+      <div class="container-fluid" style="width: 100%; height: 390px; overflow: hidden;">
+    <img src="https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510264515419-4IMP0KF0QOKO6AUTBDKE/ke17ZwdGBToddI8pDm48kHet_KDcFQuJxVcCuyXyt117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeZqUqReufaP-cJgIY-lw8ifCXCx4vjQj5BEigwB8uCRg/Indigo+Hippo+Hero.jpg" class="img-fluid" width="100%" height="100%" alt="hippo header">
+      </div>
   <ul class="nav nav-pills nav-fill">
   <li class="nav-item">
     <a class="nav-link" href="#" style="color: rgb(95, 39, 227);">Homepage</a>
@@ -196,9 +194,9 @@ Tempor commodo ullamcorper a lacus vestibulum sed arcu. Ornare suspendisse sed n
     </div>
   </div>
 </div>
-<div class="container-fluid">
-      <img src="https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510264515419-4IMP0KF0QOKO6AUTBDKE/ke17ZwdGBToddI8pDm48kHet_KDcFQuJxVcCuyXyt117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeZqUqReufaP-cJgIY-lw8ifCXCx4vjQj5BEigwB8uCRg/Indigo+Hippo+Hero.jpg" class="img-fluid" width="100%" height="30%" alt="hippo header">
-</div>
+<div class="container-fluid" style="width: 100%; height: 390px; overflow: hidden;">
+    <img src="https://images.squarespace-cdn.com/content/v1/59ecd42cc027d8a2823042ae/1510264515419-4IMP0KF0QOKO6AUTBDKE/ke17ZwdGBToddI8pDm48kHet_KDcFQuJxVcCuyXyt117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeZqUqReufaP-cJgIY-lw8ifCXCx4vjQj5BEigwB8uCRg/Indigo+Hippo+Hero.jpg" class="img-fluid" width="100%" height="100%" alt="hippo header">
+      </div>
   <ul class="nav nav-pills nav-fill">
   <li class="nav-item">
     <a class="nav-link" href="#" style="color: rgb(95, 39, 227);">Homepage</a>
